@@ -1,0 +1,1000 @@
+[1] 5.290970e-10 1.220206e-09 5.211152e-10 5.666911e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           1.07           0.43           0.41           0.41           1.07           0.31           0.52           1.98 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.38           2.57 
+[1] "N=1000 b=85"
+eq values:
+[1] 1.463110e-10 1.999250e-10 2.317526e-10 3.137623e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           0.99           0.19           0.59           0.59           0.99           0.36           0.41           2.16 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.33           1.63           3.24 
+[1] "N=1000 b=86"
+eq values:
+[1] 1.954494e-09 3.832080e-09 2.599553e-09 2.577541e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.25           0.96           0.24           0.40           0.41           1.17           0.46           0.75           2.12 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.09           2.79 
+[1] "N=1000 b=87"
+eq values:
+[1] 6.000178e-11 1.238281e-10 5.932055e-11 1.250471e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           0.99           0.76           0.43           0.43           0.99           0.76           0.43           2.68 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.85           2.68           2.85 
+[1] "N=1000 b=88"
+eq values:
+[1] 3.663752e-09 5.610152e-09 1.851677e-09 4.891254e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.49           0.92           0.68           0.46           0.46           0.92           0.66           0.49           2.33 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.85           2.42           2.73 
+[1] "N=1000 b=89"
+eq values:
+[1] 2.746126e-10 3.295773e-10 2.662444e-10 3.585039e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.03           0.17           0.41           0.41           1.03           0.17           0.41           1.72 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.33           1.72           2.33 
+[1] "N=1000 b=90"
+eq values:
+[1] 3.515364e-09 4.461977e-10 3.783458e-10 3.698347e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.40           0.96           0.55           0.48           0.48           0.96           0.63           0.40           2.42 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.47           2.12           2.85 
+[1] "N=1000 b=91"
+eq values:
+[1] 2.688179e-10 5.072920e-11 2.383256e-10 6.884759e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           0.98           0.12           0.61           0.61           0.98           0.28           0.45           2.01 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           1.58           3.24 
+[1] "N=1000 b=92"
+eq values:
+[1] 5.523641e-09 5.498021e-09 3.578712e-09 3.654628e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           1.00           0.46           0.59           0.59           1.00           0.61           0.43           2.68 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.68           2.09           3.55 
+[1] "N=1000 b=93"
+eq values:
+[1] 2.691712e-09 6.080567e-09 5.451876e-09 3.776623e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.46           0.83           0.66           0.50           0.50           0.83           0.70           0.46           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.52           2.13           2.68 
+[1] "N=1000 b=94"
+eq values:
+[1] 1.594938e-10 4.139034e-09 1.767874e-09 7.647820e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.61           0.89           0.34           0.63           0.63           0.89           0.37           0.61           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           1.87           3.31 
+[1] "N=1000 b=95"
+eq values:
+[1] 7.994729e-10 3.363838e-10 1.166010e-10 7.661209e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.40           0.89           0.43           0.53           0.53           0.89           0.56           0.40           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.25           1.78           2.85 
+[1] "N=1000 b=96"
+eq values:
+[1] 2.250015e-09 6.469549e-10 3.005702e-10 4.112733e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.48           0.92           0.56           0.50           0.50           0.92           0.58           0.48           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.16           2.85 
+[1] "N=1000 b=97"
+eq values:
+[1] 4.101648e-07 1.122548e-07 7.826438e-08 5.243067e-07
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.40           1.06           0.38           0.44           0.44           1.06           0.43           0.40           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.09           2.79 
+[1] "N=1000 b=98"
+eq values:
+[1] 1.337044e-10 1.984817e-10 1.674960e-10 1.567244e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.46           0.90           0.37           0.48           0.48           0.90           0.39           0.46           1.84 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           1.78           2.52 
+[1] "N=1000 b=99"
+eq values:
+[1] 4.879306e-09 5.770386e-09 8.446800e-09 4.135071e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.58           0.95           0.42           0.51           0.51           0.95           0.36           0.58           1.91 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.12           2.79 
+[1] "N=1000 b=100"
+eq values:
+[1] 4.065015e-10 8.922116e-10 5.011311e-10 7.338001e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.94           0.52           0.51           0.51           0.94           0.48           0.55           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           2.25           2.85 
+[1] "N=1000 b=101"
+eq values:
+[1] 1.418722e-09 3.468394e-10 1.581597e-10 2.201239e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.51           0.81           0.57           0.54           0.54           0.81           0.60           0.51           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.62           1.98           2.79 
+[1] "N=1000 b=102"
+eq values:
+[1] 1.254903e-09 3.703269e-10 7.820375e-10 1.082825e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           1.02           0.57           0.46           0.46           1.02           0.59           0.43           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.38           2.91 
+[1] "N=1000 b=103"
+eq values:
+[1] 4.966818e-10 1.735557e-09 5.033391e-10 1.812931e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.61           0.90           0.51           0.56           0.56           0.90           0.46           0.61           2.05 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.31           2.21           3.03 
+[1] "N=1000 b=104"
+eq values:
+[1] 2.836906e-10 7.844410e-10 3.000986e-10 7.036247e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.46           1.01           0.35           0.44           0.44           1.01           0.33           0.46           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.68           2.01           2.57 
+[1] "N=1000 b=105"
+eq values:
+[1] 5.893286e-11 4.399148e-11 5.235634e-11 9.323520e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           0.93           0.48           0.51           0.51           0.93           0.54           0.45           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.01           2.85 
+[1] "N=1000 b=106"
+eq values:
+[1] 1.198634e-09 7.457612e-10 8.623124e-10 1.401284e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.09           0.27           0.44           0.44           1.09           0.30           0.41           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           1.98           2.73 
+[1] "N=1000 b=107"
+eq values:
+[1] 8.578407e-10 6.618563e-10 9.103687e-10 8.937526e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.87           0.71           0.37           0.37           0.87           0.53           0.55           1.84 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.47           2.16 
+[1] "N=1000 b=108"
+eq values:
+[1] 1.349297e-09 1.751664e-09 1.185934e-09 2.033123e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.48           1.12           0.19           0.45           0.45           1.12           0.16           0.48           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.85           2.01           2.73 
+[1] "N=1000 b=109"
+eq values:
+[1] 6.933319e-09 2.794580e-09 2.023071e-09 8.485887e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           1.06           0.36           0.51           0.51           1.06           0.30           0.57           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.39           2.29           3.03 
+[1] "N=1000 b=110"
+eq values:
+[1] 3.852810e-09 1.563377e-09 3.712649e-09 1.695683e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.37           0.92           0.46           0.42           0.42           0.92           0.50           0.37           2.01 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.21           1.87           2.38 
+[1] "N=1000 b=111"
+eq values:
+[1] 1.056286e-09 4.093667e-09 3.922810e-09 9.792900e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.49           0.89           0.64           0.48           0.48           0.89           0.63           0.49           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.29           2.73 
+[1] "N=1000 b=112"
+eq values:
+[1] 3.583072e-10 1.376898e-09 3.969389e-10 7.753029e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.63           0.93           0.58           0.53           0.53           0.93           0.48           0.63           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.55           2.42           2.97 
+[1] "N=1000 b=113"
+eq values:
+[1] 9.295928e-10 1.727218e-10 6.687451e-11 1.546915e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           0.93           0.48           0.57           0.57           0.93           0.52           0.52           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.91           2.09           3.17 
+[1] "N=1000 b=114"
+eq values:
+[1] 2.310596e-12 7.395418e-12 3.022249e-12 8.510082e-12
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.31           0.94           0.49           0.39           0.39           0.94           0.56           0.31           2.12 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.05           1.87           2.33 
+[1] "N=1000 b=115"
+eq values:
+[1] 4.215051e-10 2.998486e-10 2.204561e-10 5.640803e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           0.95           0.59           0.47           0.47           0.95           0.55           0.52           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.38           2.79 
+[1] "N=1000 b=116"
+eq values:
+[1] 1.494871e-09 6.088327e-09 2.531561e-09 1.898226e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           1.01           0.37           0.52           0.52           1.01           0.32           0.57           2.01 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.24           2.16           2.97 
+[1] "N=1000 b=117"
+eq values:
+[1] 6.673906e-11 8.106715e-11 5.135048e-11 1.353828e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           0.96           0.39           0.47           0.47           0.96           0.35           0.50           1.91 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.01           2.62 
+[1] "N=1000 b=118"
+eq values:
+[1] 4.054734e-07 2.758043e-07 1.706667e-07 4.803721e-07
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.36           1.11           0.17           0.44           0.44           1.11           0.25           0.36           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.33           1.81           2.73 
+[1] "N=1000 b=119"
+eq values:
+[1] 9.317797e-09 1.802170e-09 2.100110e-09 9.793210e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           1.00           0.46           0.53           0.53           1.00           0.56           0.43           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.68           2.12           3.17 
+[1] "N=1000 b=120"
+eq values:
+[1] 5.644020e-09 2.636047e-09 1.252292e-09 8.415961e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           0.99           0.50           0.36           0.36           0.99           0.43           0.43           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.16           2.29 
+[1] "N=1000 b=121"
+eq values:
+[1] 7.749890e-11 3.844289e-09 2.327161e-09 3.295368e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.61           0.94           0.66           0.46           0.46           0.94           0.50           0.61           2.05 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.55           2.62           2.68 
+[1] "N=1000 b=122"
+eq values:
+[1] 2.648592e-11 1.343547e-11 2.518563e-11 1.297273e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.98           0.35           0.49           0.49           0.98           0.32           0.53           1.91 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.91           2.01           2.73 
+[1] "N=1000 b=123"
+eq values:
+[1] 3.707950e-10 1.917787e-09 9.413530e-10 1.005249e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.35           1.06           0.16           0.64           0.64           1.06           0.45           0.35           2.62 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.25           1.66           3.81 
+[1] "N=1000 b=124"
+eq values:
+[1] 3.598410e-11 3.861489e-11 3.542677e-11 5.061729e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.04           0.57           0.46           0.46           1.04           0.62           0.41           2.57 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.38           2.97 
+[1] "N=1000 b=125"
+eq values:
+[1] 2.093663e-09 2.501365e-09 2.086387e-09 2.824086e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.90           0.57           0.58           0.58           0.90           0.61           0.55           2.33 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.21           3.24 
+[1] "N=1000 b=126"
+eq values:
+[1] 6.443829e-08 1.385953e-07 9.390036e-08 7.770059e-08
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           0.90           0.74           0.51           0.51           0.90           0.72           0.52           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.52           2.97 
+[1] "N=1000 b=127"
+eq values:
+[1] 6.267935e-10 3.766844e-09 2.034031e-09 1.495127e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.98           0.67           0.35           0.35           0.98           0.47           0.55           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.24           2.68           2.29 
+[1] "N=1000 b=128"
+eq values:
+[1] 5.314439e-09 5.974505e-10 3.970930e-10 6.177532e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.39           0.93           0.60           0.44           0.44           0.93           0.65           0.39           2.33 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.38           2.12           2.62 
+[1] "N=1000 b=129"
+eq values:
+[1] 5.861114e-10 1.283118e-09 8.407155e-10 1.191466e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.60           0.91           0.31           0.54           0.54           0.91           0.24           0.60           1.69 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           1.87           2.73 
+[1] "N=1000 b=130"
+eq values:
+[1] 3.247800e-10 1.441514e-10 2.482334e-10 2.380265e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.60           0.86           0.58           0.45           0.45           0.86           0.43           0.60           1.78 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.25           2.42 
+[1] "N=1000 b=131"
+eq values:
+[1] 8.897798e-10 1.215120e-09 5.740213e-10 7.457093e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.37           0.99           0.31           0.47           0.47           0.99           0.41           0.37           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.25           1.78           2.68 
+[1] "N=1000 b=132"
+eq values:
+[1] 1.551115e-11 3.676615e-12 6.510570e-12 1.028244e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.09           0.18           0.52           0.52           1.09           0.29           0.41           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.52           1.84           3.10 
+[1] "N=1000 b=133"
+eq values:
+[1] 7.582810e-10 5.198767e-09 3.440286e-09 1.161713e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.91           0.59           0.48           0.48           0.91           0.55           0.53           2.12 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.29           2.73 
+[1] "N=1000 b=134"
+eq values:
+[1] 2.264118e-10 9.472423e-11 9.192469e-11 4.504739e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.35           0.96           0.37           0.46           0.46           0.96           0.48           0.35           2.12 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.13           1.75           2.62 
+[1] "N=1000 b=135"
+eq values:
+[1] 7.260668e-10 8.086687e-11 3.157297e-11 1.070832e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           1.09           0.36           0.45           0.45           1.09           0.30           0.50           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           2.29           2.79 
+[1] "N=1000 b=136"
+eq values:
+[1] 9.514434e-11 3.367768e-10 1.791736e-10 9.255841e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           1.11           0.40           0.37           0.37           1.11           0.35           0.43           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.29           2.52 
+[1] "N=1000 b=137"
+eq values:
+[1] 8.075154e-10 3.515521e-10 1.644396e-10 1.339092e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           1.03           0.45           0.47           0.47           1.03           0.46           0.45           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.21           2.85 
+[1] "N=1000 b=138"
+eq values:
+[1] 2.636114e-12 5.377920e-13 5.311307e-13 3.450573e-12
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.37           1.04           0.47           0.46           0.46           1.04           0.56           0.37           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.47           2.12           2.91 
+[1] "N=1000 b=139"
+eq values:
+[1] 1.518266e-09 2.110129e-09 1.223356e-09 3.073925e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           0.95           0.58           0.46           0.46           0.95           0.59           0.45           2.29 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.68           2.25           2.73 
+[1] "N=1000 b=140"
+eq values:
+[1] 8.728884e-11 3.524692e-11 4.092415e-11 8.276757e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.42           0.97           0.52           0.52           0.52           0.97           0.63           0.42           2.52 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.13           3.10 
+[1] "N=1000 b=141"
+eq values:
+[1] 4.173092e-09 1.326367e-09 1.427715e-09 3.395877e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.48           0.92           0.73           0.44           0.44           0.92           0.70           0.48           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.85           2.52           2.68 
+[1] "N=1000 b=142"
+eq values:
+[1] 6.369425e-09 4.693781e-09 3.771269e-09 7.960091e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.90           0.56           0.55           0.55           0.90           0.58           0.53           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.91           2.16           3.03 
+[1] "N=1000 b=143"
+eq values:
+[1] 1.317522e-09 4.049818e-10 6.649721e-10 8.897207e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.95           0.67           0.40           0.40           0.95           0.54           0.53           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           2.57           2.47 
+[1] "N=1000 b=144"
+eq values:
+[1] 1.479635e-07 1.250740e-07 1.070101e-07 1.710756e-07
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.38           0.96           0.60           0.41           0.41           0.96           0.63           0.38           2.33 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           2.21           2.57 
+[1] "N=1000 b=145"
+eq values:
+[1] 4.379563e-11 4.179368e-11 3.269829e-11 5.425971e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           0.94           0.68           0.43           0.43           0.94           0.61           0.50           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.52           2.62 
+[1] "N=1000 b=146"
+eq values:
+[1] 1.386995e-08 2.285658e-08 1.168750e-08 2.436084e-08
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           0.94           0.47           0.49           0.49           0.94           0.54           0.43           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.47           1.98           2.79 
+[1] "N=1000 b=147"
+eq values:
+[1] 6.949907e-11 6.721415e-10 4.522933e-10 8.947465e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.36           1.14           0.22           0.49           0.49           1.14           0.34           0.36           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.47           1.94           3.10 
+[1] "N=1000 b=148"
+eq values:
+[1] 3.405676e-11 1.879239e-10 1.912048e-10 3.156364e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.37           0.99           0.52           0.36           0.36           0.99           0.51           0.37           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.38           2.13           2.33 
+[1] "N=1000 b=149"
+eq values:
+[1] 4.398193e-11 3.770362e-11 4.114620e-11 4.221912e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           0.96           0.60           0.34           0.34           0.96           0.43           0.50           1.84 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.91           2.42           2.16 
+[1] "N=1000 b=150"
+eq values:
+[1] 1.332232e-10 2.129035e-10 1.411462e-10 4.210587e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.54           0.92           0.47           0.63           0.63           0.92           0.56           0.54           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.05           3.55 
+[1] "N=1000 b=151"
+eq values:
+[1] 2.108360e-10 5.962431e-11 4.810796e-11 3.604641e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.42           1.04           0.01           0.51           0.51           1.04           0.09           0.42           1.75 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.29           1.53           2.68 
+[1] "N=1000 b=152"
+eq values:
+[1] 2.406754e-09 1.673915e-09 2.530901e-09 1.759277e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.58           0.93           0.46           0.57           0.57           0.93           0.45           0.58           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.12           3.10 
+[1] "N=1000 b=153"
+eq values:
+[1] 1.741816e-10 4.011006e-09 3.544929e-09 2.888676e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.39           0.97           0.50           0.48           0.48           0.97           0.59           0.39           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           2.05           2.85 
+[1] "N=1000 b=154"
+eq values:
+[1] 6.076517e-11 3.708309e-10 1.722644e-10 1.850995e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.49           1.04           0.50           0.46           0.46           1.04           0.47           0.49           2.25 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.38           2.85 
+[1] "N=1000 b=155"
+eq values:
+[1] 5.347291e-10 1.657354e-09 1.479705e-09 1.535349e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.51           0.88           0.57           0.53           0.53           0.88           0.59           0.51           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.12           2.91 
+[1] "N=1000 b=156"
+eq values:
+[1] 1.467124e-10 1.116218e-10 8.629231e-11 2.209988e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           0.79           0.87           0.38           0.38           0.79           0.67           0.57           1.94 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.68           2.16 
+[1] "N=1000 b=157"
+eq values:
+[1] 1.793117e-10 3.081655e-09 2.934076e-09 3.562604e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.46           0.96           0.55           0.45           0.45           0.96           0.54           0.46           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.25           2.68 
+[1] "N=1000 b=158"
+eq values:
+[1] 1.324787e-10 8.604322e-10 3.914260e-10 1.996177e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.82           0.75           0.34           0.34           0.82           0.54           0.55           1.75 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.91           2.47           2.01 
+[1] "N=1000 b=159"
+eq values:
+[1] 1.028733e-10 3.848699e-10 3.724838e-10 9.060885e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           0.98           0.40           0.48           0.48           0.98           0.31           0.57           1.87 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.16           2.68 
+[1] "N=1000 b=160"
+eq values:
+[1] 7.199805e-10 2.619451e-08 1.558620e-08 2.944126e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.56           0.99           0.24           0.55           0.55           0.99           0.23           0.56           1.87 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           1.91           2.97 
+[1] "N=1000 b=161"
+eq values:
+[1] 1.372014e-09 2.886326e-09 1.096739e-09 3.420020e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.47           0.94           0.59           0.53           0.53           0.94           0.65           0.47           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.25           3.10 
+[1] "N=1000 b=162"
+eq values:
+[1] 6.095983e-09 2.535960e-09 1.154322e-09 6.641594e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.44           1.09           0.38           0.42           0.42           1.09           0.36           0.44           2.13 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.21           2.68 
+[1] "N=1000 b=163"
+eq values:
+[1] 1.870764e-09 6.965278e-09 4.177963e-09 2.538072e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.59           0.92           0.54           0.54           0.54           0.92           0.48           0.59           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.31           2.29           2.97 
+[1] "N=1000 b=164"
+eq values:
+[1] 7.666672e-10 1.252211e-09 9.681131e-10 2.253745e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           1.00           0.14           0.45           0.45           1.00           0.16           0.43           1.69 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.33           1.63           2.42 
+[1] "N=1000 b=165"
+eq values:
+[1] 3.471099e-10 1.941318e-10 1.906195e-10 6.838139e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.38           0.91           0.43           0.54           0.54           0.91           0.60           0.38           2.33 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.21           1.78           2.97 
+[1] "N=1000 b=166"
+eq values:
+[1] 2.354440e-08 6.227373e-09 1.367296e-09 4.374469e-08
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.49           0.96           0.44           0.54           0.54           0.96           0.48           0.49           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.05           3.03 
+[1] "N=1000 b=167"
+eq values:
+[1] 1.253077e-09 7.110903e-10 1.214307e-09 1.292829e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.42           1.05           0.46           0.38           0.38           1.05           0.42           0.42           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.68           2.25           2.47 
+[1] "N=1000 b=168"
+eq values:
+[1] 2.794076e-11 1.374350e-10 6.399192e-11 8.320367e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.43           0.99           0.44           0.47           0.47           0.99           0.48           0.43           2.21 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.05           2.79 
+[1] "N=1000 b=169"
+eq values:
+[1] 6.444407e-09 7.420025e-09 4.824346e-09 5.369892e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.62           1.05           0.32           0.43           0.43           1.05           0.12           0.62           1.69 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.55           2.29           2.47 
+[1] "N=1000 b=170"
+eq values:
+[1] 4.488303e-10 2.926321e-10 1.689511e-10 5.506471e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.00           0.43           0.51           0.51           1.00           0.53           0.41           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.52           2.01           3.03 
+[1] "N=1000 b=171"
+eq values:
+[1] 6.889023e-11 8.041696e-10 6.707390e-10 1.730753e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.58           0.86           0.60           0.65           0.65           0.86           0.67           0.58           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.21           3.63 
+[1] "N=1000 b=172"
+eq values:
+[1] 9.559691e-10 1.577152e-08 1.402138e-08 1.437500e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.47           1.01           0.65           0.43           0.43           1.01           0.61           0.47           2.42 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.57           2.79 
+[1] "N=1000 b=173"
+eq values:
+[1] 1.863494e-10 5.942979e-11 2.984746e-11 2.968363e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.56           1.08           0.09           0.57           0.57           1.08           0.10           0.56           1.91 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           1.87           3.17 
+[1] "N=1000 b=174"
+eq values:
+[1] 6.252245e-09 1.573017e-09 7.991270e-10 6.927529e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           1.04           0.38           0.45           0.45           1.04           0.31           0.52           1.98 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.21           2.68 
+[1] "N=1000 b=175"
+eq values:
+[1] 1.503859e-08 1.248935e-08 7.968753e-09 1.983505e-08
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           0.99           0.49           0.52           0.52           0.99           0.44           0.57           2.16 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.31           2.33           3.03 
+[1] "N=1000 b=176"
+eq values:
+[1] 1.022716e-09 2.156505e-09 1.228402e-09 1.867249e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.36           1.16           0.14           0.36           0.36           1.16           0.14           0.36           1.87 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.38           1.87           2.38 
+[1] "N=1000 b=177"
+eq values:
+[1] 7.737189e-11 4.571277e-11 7.164314e-11 8.689227e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           0.87           0.74           0.45           0.45           0.87           0.78           0.41           2.47 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           2.29           2.62 
+[1] "N=1000 b=178"
+eq values:
+[1] 1.727431e-09 1.105564e-09 5.805547e-10 3.529134e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.90           0.37           0.48           0.48           0.90           0.33           0.53           1.75 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           1.87           2.52 
+[1] "N=1000 b=179"
+eq values:
+[1] 2.529976e-11 2.018798e-10 1.155425e-10 6.590506e-11
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.49           1.01           0.29           0.52           0.52           1.01           0.32           0.49           2.01 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           1.94           2.91 
+[1] "N=1000 b=180"
+eq values:
+[1] 1.286813e-09 1.307652e-10 5.954142e-10 6.091798e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.39           1.07           0.22           0.48           0.48           1.07           0.31           0.39           2.13 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           1.84           2.85 
+[1] "N=1000 b=181"
+eq values:
+[1] 5.052816e-10 3.740289e-09 1.801345e-09 9.237620e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           0.97           0.57           0.42           0.42           0.97           0.53           0.45           2.16 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.29           2.57 
+[1] "N=1000 b=182"
+eq values:
+[1] 1.681517e-10 6.680092e-10 2.939831e-10 4.497931e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.44           1.10           0.41           0.34           0.34           1.10           0.31           0.44           1.98 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.85           2.33           2.38 
+[1] "N=1000 b=183"
+eq values:
+[1] 6.414025e-10 2.031923e-09 1.176750e-09 1.216463e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           1.04           0.33           0.60           0.60           1.04           0.36           0.57           2.29 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.31           2.16           3.55 
+[1] "N=1000 b=184"
+eq values:
+[1] 2.747713e-10 5.442597e-10 3.013354e-10 4.256688e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.48           0.98           0.39           0.51           0.51           0.98           0.42           0.48           2.12 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.73           2.01           2.91 
+[1] "N=1000 b=185"
+eq values:
+[1] 6.960260e-09 7.893536e-09 9.131380e-09 2.021534e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           1.07           0.40           0.43           0.43           1.07           0.33           0.50           2.05 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.29           2.68 
+[1] "N=1000 b=186"
+eq values:
+[1] 5.406902e-09 1.532360e-09 5.505341e-09 1.247046e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.54           0.88           0.68           0.38           0.38           0.88           0.51           0.54           1.84 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.97           2.42           2.21 
+[1] "N=1000 b=187"
+eq values:
+[1] 1.194955e-09 8.147030e-10 9.643757e-10 2.145778e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.50           0.93           0.46           0.61           0.61           0.93           0.58           0.50           2.42 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.79           2.01           3.46 
+[1] "N=1000 b=188"
+eq values:
+[1] 1.026015e-10 3.540150e-10 1.868621e-10 1.035576e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           0.93           0.53           0.45           0.45           0.93           0.41           0.57           1.87 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.29           2.52 
+[1] "N=1000 b=189"
+eq values:
+[1] 4.266258e-09 5.863354e-09 4.065738e-09 5.942050e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.52           0.99           0.52           0.43           0.43           0.99           0.43           0.52           2.01 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.33           2.57 
+[1] "N=1000 b=190"
+eq values:
+[1] 1.230398e-10 3.734746e-11 4.042011e-11 1.261751e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.55           0.91           0.67           0.51           0.51           0.91           0.62           0.55           2.29 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.47           2.91 
+[1] "N=1000 b=191"
+eq values:
+[1] 2.602150e-09 2.349060e-09 1.117859e-09 5.103685e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.40           1.06           0.45           0.50           0.50           1.06           0.55           0.40           2.57 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.62           2.16           3.17 
+[1] "N=1000 b=192"
+eq values:
+[1] 6.735432e-09 3.547715e-09 5.617265e-09 9.907055e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.53           0.96           0.61           0.57           0.57           0.96           0.65           0.53           2.57 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.17           2.42           3.39 
+[1] "N=1000 b=193"
+eq values:
+[1] 5.009904e-10 1.887284e-08 1.039004e-08 2.252927e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.57           1.04           0.23           0.60           0.60           1.04           0.26           0.57           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.24           2.01           3.39 
+[1] "N=1000 b=194"
+eq values:
+[1] 2.325155e-09 3.645098e-10 2.664160e-10 3.094172e-09
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.40           0.97           0.37           0.56           0.56           0.97           0.53           0.40           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.38           1.84           3.17 
+[1] "N=1000 b=195"
+eq values:
+[1] 1.660752e-10 2.924105e-11 1.220535e-11 1.930971e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.47           1.13           0.39           0.41           0.41           1.13           0.33           0.47           2.16 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.03           2.38           2.73 
+[1] "N=1000 b=196"
+eq values:
+[1] 6.876446e-10 1.045042e-09 1.101571e-09 7.703154e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.38           1.02           0.37           0.51           0.51           1.02           0.50           0.38           2.38 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           1.94           3.03 
+[1] "N=1000 b=197"
+eq values:
+[1] 6.644751e-10 4.339769e-09 3.981307e-09 8.047580e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.46           0.82           0.43           0.59           0.59           0.82           0.55           0.46           2.09 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.38           1.72           2.97 
+[1] "N=1000 b=198"
+eq values:
+[1] 2.430010e-07 2.172137e-07 1.606578e-07 4.377152e-07
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.54           1.00           0.39           0.59           0.59           1.00           0.44           0.54           2.29 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          3.10           2.13           3.39 
+[1] "N=1000 b=199"
+eq values:
+[1] 1.109601e-11 4.271250e-12 1.326894e-11 4.360956e-12
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.41           1.03           0.25           0.52           0.52           1.03           0.36           0.41           2.16 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.42           1.81           2.97 
+[1] "N=1000 b=200"
+eq values:
+[1] 1.767608e-10 3.476226e-09 3.162215e-09 2.189595e-10
+      b1cov.f1 b1absdiff.f1.1 Intercept.b1.1 Intercept.b1.2       b2cov.f1 b2absdiff.f1.1 Intercept.b2.1 Intercept.b2.2   ExpUtil.b1.1 
+          0.45           0.95           0.46           0.41           0.41           0.95           0.42           0.45           1.91 
+  ExpUtil.b1.2   ExpUtil.b2.1   ExpUtil.b2.2 
+          2.57           2.05           2.38 
+[1] "n=1000: nonconvergence 0 of 200"
+[1] "beta_sim:"
+            [,1]      [,2]        [,3]      [,4]      [,5]      [,6]       [,7]      [,8]     [,9]    [,10]    [,11]    [,12]        [,13]
+  [1,] 0.4654084 0.9856424  0.30957816 0.5327139 0.5327135 0.9856443 0.37688373 0.4654090 2.086424 2.623178 1.873561 2.968253 7.133139e-10
+  [2,] 0.6225481 0.8260952  0.70283097 0.4823109 0.4823108 0.8260952 0.56259365 0.6225480 1.941048 3.310144 2.424350 2.571436 5.650315e-08
+  [3,] 0.4066164 0.9812984  0.46579956 0.4397955 0.4397964 0.9813021 0.49897605 0.4066171 2.164565 2.472206 2.048753 2.623220 2.020243e-09
+  [4,] 0.5369623 0.9404807  0.44571972 0.5369590 0.5369600 0.9404826 0.44571913 0.5369630 2.086409 2.968254 2.086417 2.968242 2.263330e-09
+  [5,] 0.4438943 0.8756351  0.62119648 0.5008140 0.5008148 0.8756352 0.67811669 0.4438940 2.333299 2.521123 2.125002 2.787827 9.150591e-10
+  [6,] 0.3683041 1.0184513  0.55719834 0.3907400 0.3907402 1.0184511 0.57963517 0.3683042 2.333333 2.472223 2.246753 2.571429 6.092904e-12
+  [7,] 0.5456274 0.9424979  0.52667182 0.5456208 0.5456219 0.9424984 0.52667119 0.5456277 2.246728 3.098343 2.246743 3.098318 1.376354e-09
+  [8,] 0.5150628 0.9237752  0.32036448 0.5947550 0.5947533 0.9237740 0.40005845 0.5150608 2.048760 2.731354 1.808988 3.166645 6.042065e-10
+  [9,] 0.4611931 0.9503290  0.39753552 0.4611852 0.4611855 0.9503290 0.39752660 0.4611931 1.941181 2.571462 1.941207 2.571424 1.621583e-08
+ [10,] 0.4031331 1.1481091  0.06385248 0.4031319 0.4031321 1.1481102 0.06385031 0.4031328 1.808986 2.472233 1.808990 2.472227 7.340306e-11
+ [11,] 0.4363461 0.9925217  0.36991375 0.5387668 0.5387674 0.9925193 0.47233744 0.4363432 2.289055 2.572377 1.941406 3.098513 6.132862e-08
+ [12,] 0.4107465 1.0825897  0.16644934 0.4760736 0.4760734 1.0825896 0.23177680 0.4107464 2.012045 2.472264 1.809032 2.787846 9.023045e-10
+ [13,] 0.5709918 0.8117609  0.68566277 0.4578431 0.4578442 0.8117525 0.57250716 0.5709996 1.906977 2.968253 2.289475 2.424656 6.633483e-10
+ [14,] 0.4957440 0.9355925  0.72726810 0.3167283 0.3167268 0.9355922 0.54825129 0.4957439 1.941177 2.906253 2.623190 2.125001 1.829865e-10
+ [15,] 0.5263320 0.9693394  0.69630776 0.3969513 0.3969511 0.9693395 0.56692659 0.5263318 2.164556 3.166663 2.676465 2.521127 1.096633e-09
+ [16,] 0.4371589 0.9926563  0.51532595 0.4600455 0.4600491 0.9926571 0.53821307 0.4371602 2.289492 2.676451 2.205130 2.787880 2.285401e-09
+ [17,] 0.5537025 0.8535124  0.55968831 0.6258761 0.6258760 0.8535122 0.63186186 0.5537026 2.333330 2.968256 2.086419 3.385962 2.298890e-10
+ [18,] 0.5010380 1.1186791  0.49773925 0.4400792 0.4400795 1.1186790 0.43678050 0.5010378 2.378363 3.310357 2.623188 2.968244 2.182033e-09
+ [19,] 0.3884398 1.0236399  0.37959948 0.4322025 0.4322035 1.0236406 0.42336132 0.3884358 2.125001 2.424651 1.976188 2.623188 4.164358e-11
+ [20,] 0.4167382 1.1203652  0.41400248 0.3494999 0.3494997 1.1203657 0.34676415 0.4167380 2.086418 2.787880 2.333334 2.472220 5.705258e-11
+ [21,] 0.5632123 0.9418931  0.54828189 0.4593148 0.4592797 0.9419017 0.44438248 0.5632300 1.976184 3.166668 2.333336 2.623177 6.221132e-10
+ [22,] 0.5973243 1.0095910  0.21008872 0.5514966 0.5514612 1.0097975 0.16427230 0.5977172 1.808988 3.237287 1.941176 2.968252 7.983014e-11
+ [23,] 0.4864256 0.8702224  0.60148301 0.3890288 0.3890288 0.8702232 0.50408634 0.4864252 1.841058 2.623063 2.164521 2.205257 2.570639e-10
+ [24,] 0.4189154 1.0207018  0.40374994 0.4637959 0.4637949 1.0207003 0.44862963 0.4189153 2.205116 2.571426 2.048791 2.787844 9.210051e-10
+ [25,] 0.3426003 1.1282128  0.34985915 0.2791825 0.2791842 1.1282122 0.28644373 0.3426001 1.906968 2.424617 2.124960 2.164553 8.241274e-11
+ [26,] 0.4982386 0.9373862  0.54235321 0.4982429 0.4982408 0.9373859 0.54235791 0.4982404 2.205133 2.846139 2.205121 2.846155 5.252843e-10
+ [27,] 0.4816941 0.9179510  0.49284746 0.4929359 0.4929387 0.9179484 0.50409035 0.4816914 2.086389 2.676417 2.048747 2.731293 5.363544e-09
+ [28,] 0.5191017 0.9978756  0.53401646 0.4835677 0.4835169 0.9978924 0.49845853 0.5191049 2.246753 3.098360 2.378381 2.906245 3.366729e-11
+ [29,] 0.3027985 1.2297939  0.09613038 0.4591589 0.4591578 1.2297942 0.25248875 0.3027981 2.424670 2.333335 1.873569 3.098370 2.419070e-09
+ [30,] 0.4477900 1.0232473  0.35776845 0.5164187 0.5164185 1.0232451 0.42639675 0.4477886 2.246759 2.676466 2.012040 3.032275 4.179692e-10
+ [31,] 0.4631357 1.0761243  0.10595435 0.4958535 0.4958533 1.0761249 0.13867199 0.4631357 1.873562 2.623188 1.777780 2.787873 2.213697e-09
+ [32,] 0.4612200 1.1435128  0.31817558 0.3930670 0.3930671 1.1435121 0.25002241 0.4612199 2.048786 2.968261 2.289476 2.623199 1.300323e-09
+ [33,] 0.4424795 0.9274542  0.47160883 0.5098580 0.5098581 0.9274511 0.53899016 0.4424780 2.205128 2.521127 1.976191 2.846153 9.848611e-11
+ [34,] 0.4382326 1.1528867  0.31044110 0.4616704 0.4616705 1.1528867 0.33387983 0.4382324 2.333315 2.906290 2.246762 3.032261 2.555293e-09
+ [35,] 0.4269923 0.8530616  0.56376924 0.5515369 0.5515373 0.8530621 0.68831507 0.4269927 2.378387 2.378368 1.941172 2.968259 1.023818e-09
+ [36,] 0.4510180 1.1973724  0.18598809 0.5105087 0.5105087 1.1973725 0.24547863 0.4510181 2.378378 2.968254 2.164557 3.310345 1.956080e-11
+ [37,] 0.4477815 0.9729793  0.35315583 0.4370214 0.4370212 0.9729766 0.34239535 0.4477834 1.873564 2.521130 1.906979 2.472223 4.202627e-10
+ [38,] 0.4445656 0.9958508  0.52827573 0.4676883 0.4676870 0.9958518 0.55139764 0.4445689 2.333334 2.731342 2.246753 2.846154 6.990586e-10
+ [39,] 0.4046110 0.9721123  0.51445909 0.5452616 0.5452614 0.9721147 0.65511071 0.4046085 2.623187 2.521127 2.086419 3.237287 2.799299e-10
+ [40,] 0.5637939 0.9613156  0.44615164 0.4087743 0.4087574 0.9613234 0.29115649 0.5637864 1.717398 3.098270 2.205077 2.333338 1.638146e-09
+ [41,] 0.4450992 1.1140645  0.24930113 0.5146988 0.5146997 1.1140652 0.31889942 0.4451002 2.289473 2.787886 2.048783 3.166669 2.765534e-10
+ [42,] 0.5556264 0.9110342  0.47671601 0.5792568 0.5792577 0.9110344 0.50034851 0.5556268 2.164582 3.032212 2.086411 3.166678 1.522046e-09
+ [43,] 0.5954142 0.8970630  0.61211437 0.6863838 0.6863840 0.8970628 0.70308308 0.5954147 2.676474 3.385958 2.333330 4.000003 8.012613e-11
+ [44,] 0.4683640 0.9667203  0.50039866 0.4570607 0.4570613 0.9667205 0.48909605 0.4683645 2.125000 2.731344 2.164558 2.676470 2.586420e-11
+ [45,] 0.5952180 0.8773216  0.46236097 0.5049611 0.5049616 0.8773235 0.37210385 0.5952188 1.777772 3.098359 2.048788 2.623167 2.569936e-09
+ [46,] 0.4319812 1.2576722  0.27080411 0.3619804 0.3619788 1.2576750 0.20079959 0.4319829 2.205130 3.098364 2.472223 2.731347 1.421636e-10
+ [47,] 0.4502391 0.9922764  0.45814733 0.4502379 0.4502387 0.9922750 0.45814806 0.4502387 2.125002 2.676479 2.125002 2.676478 8.406760e-10
+ [48,] 0.5904060 1.0284705  0.32640681 0.5663572 0.5663572 1.0284706 0.30235864 0.5904061 2.086420 3.385964 2.164557 3.237287 2.726717e-10
+ [49,] 0.4601815 0.9545811  0.53896808 0.4048264 0.4048153 0.9545829 0.48359412 0.4601840 2.012038 2.676491 2.205127 2.424664 1.961176e-09
+ [50,] 0.3880540 1.0639142  0.28946768 0.5365573 0.5364571 1.0642655 0.43843094 0.3883204 2.424658 2.472222 1.906977 3.237289 9.451417e-11
+ [51,] 0.5979280 1.0360840  0.44180774 0.4898385 0.4898369 1.0360923 0.33372059 0.5979329 2.048772 3.545494 2.424675 2.906243 2.970011e-10
+ [52,] 0.5306557 1.0258611  0.27616394 0.4747781 0.4747771 1.0258597 0.22028719 0.5306556 1.840916 2.968253 2.012027 2.676512 2.951444e-09
+ [53,] 0.5656895 0.8346739  0.60499366 0.5197567 0.5197733 0.8347041 0.55908452 0.5656866 2.012236 2.968145 2.164502 2.731613 2.664475e-09
+ [54,] 0.4173386 0.9579313  0.29869372 0.4705478 0.4705450 0.9579238 0.35190397 0.4173280 1.906969 2.333328 1.747247 2.571420 2.641272e-10
+ [55,] 0.4382301 1.2100580 -0.06000664 0.5165618 0.5165616 1.2100578 0.01832516 0.4382304 2.048778 2.676482 1.808994 3.098359 1.066121e-09
+ [56,] 0.4738796 1.0299048  0.54799436 0.4502858 0.4502859 1.0299058 0.52440044 0.4738791 2.333331 2.968252 2.424655 2.846153 6.441336e-11
+ [57,] 0.4578352 0.9614310  0.47915067 0.5153190 0.5153208 0.9614269 0.53663567 0.4578353 2.289474 2.676471 2.086420 2.968255 3.586775e-11
+ [58,] 0.4886609 0.9557264  0.63223405 0.4421228 0.4421237 0.9557257 0.58569593 0.4886611 2.246753 2.906250 2.424658 2.676470 5.171774e-11
+              [,14]        [,15]        [,16]     [,17]
+  [1,] 1.270457e-09 5.855827e-10 1.528303e-09 0.8905336
+  [2,] 1.082902e-08 7.137334e-09 7.088580e-08 0.9105675
+  [3,] 5.503886e-10 1.006177e-09 3.009995e-09 0.8893250
+  [4,] 3.351484e-10 9.761969e-11 3.481161e-09 0.8943728
+  [5,] 1.450545e-09 1.786077e-09 5.731575e-10 0.9030434
+  [6,] 1.538680e-11 6.519674e-12 1.785994e-11 0.8813823
+  [7,] 5.638441e-10 1.249947e-10 2.761867e-09 0.8910224
+  [8,] 7.173018e-10 6.871461e-10 3.554987e-10 0.9000194
+  [9,] 1.354523e-08 1.381728e-08 3.448256e-08 0.8965490
+ [10,] 2.657066e-09 1.690007e-09 2.419895e-10 0.8748660
+ [11,] 1.761784e-08 3.172480e-08 2.956836e-08 0.8868705
+ [12,] 4.486864e-10 3.903349e-10 8.646279e-10 0.8797271
+ [13,] 5.222653e-10 3.559006e-10 8.875110e-10 0.9144686
+ [14,] 8.841679e-10 1.263474e-09 1.595630e-10 0.8945976
+ [15,] 2.461867e-09 2.044518e-09 6.451968e-10 0.8856726
+ [16,] 1.510239e-09 2.016822e-09 1.069929e-09 0.8846877
+ [17,] 2.344525e-10 1.294831e-10 2.984386e-10 0.9050851
+ [18,] 9.598429e-09 5.883609e-09 2.723020e-09 0.8610212
+ [19,] 2.570402e-10 2.791247e-10 1.968425e-11 0.8844223
+ [20,] 1.241922e-10 5.475398e-11 1.526317e-10 0.8678918
+ [21,] 2.545861e-10 1.863261e-10 8.465557e-10 0.8933509
+ [22,] 8.457945e-11 8.729018e-11 1.165330e-10 0.8899030
+ [23,] 3.541818e-09 2.309698e-09 7.064775e-10 0.9079038
+ [24,] 8.757493e-10 3.204144e-10 1.801544e-09 0.8828976
+ [25,] 7.009984e-10 6.785892e-10 1.065490e-10 0.8721744
+ [26,] 5.565749e-09 4.437237e-09 7.177592e-10 0.8931317
+ [27,] 8.242040e-09 9.616261e-09 4.409773e-09 0.8986188
+ [28,] 1.050906e-10 1.287197e-10 2.779466e-11 0.8819728
+ [29,] 1.192717e-09 6.443583e-10 2.084195e-09 0.8560059
+ [30,] 8.545831e-11 1.530576e-10 6.351568e-10 0.8821176
+ [31,] 3.238374e-10 5.581313e-11 3.574784e-09 0.8829590
+ [32,] 5.415042e-10 2.424643e-10 2.521584e-09 0.8653318
+ [33,] 6.397460e-11 8.680012e-11 2.862111e-11 0.8970073
+ [34,] 6.263643e-10 2.569871e-09 1.502164e-09 0.8609652
+ [35,] 2.312986e-09 7.980465e-10 2.102812e-09 0.9075159
+ [36,] 5.372325e-11 6.399947e-11 9.086953e-12 0.8559056
+ [37,] 2.046834e-09 1.267399e-09 8.561511e-10 0.8946092
+ [38,] 2.711915e-10 2.802145e-10 8.902528e-10 0.8833391
+ [39,] 6.722933e-11 8.079049e-11 1.724496e-10 0.8860311
+ [40,] 1.233295e-08 9.853434e-09 4.983417e-09 0.8948278
+ [41,] 2.106156e-09 1.933061e-09 2.761507e-10 0.8689199
+ [42,] 3.687420e-09 1.547686e-09 3.888361e-09 0.8977568
+ [43,] 5.203766e-10 3.355085e-10 1.639391e-10 0.8931128
+ [44,] 2.795630e-11 2.180256e-11 6.021939e-11 0.8902092
+ [45,] 3.210892e-09 1.359911e-09 3.429861e-09 0.9070181
+ [46,] 2.853659e-09 2.162487e-09 2.468812e-10 0.8470586
+ [47,] 4.045777e-10 1.462808e-10 8.541692e-10 0.8869315
+ [48,] 8.309398e-11 1.839409e-10 1.873284e-10 0.8809495
+ [49,] 7.329883e-10 3.794218e-10 1.672276e-09 0.8932103
+ [50,] 1.187495e-11 1.266942e-11 1.031579e-10 0.8761777
+ [51,] 3.707165e-09 1.595125e-09 1.249890e-09 0.8777139
+ [52,] 1.950449e-09 3.417671e-09 1.588090e-09 0.8864088
+ [53,] 3.595765e-09 3.722060e-09 9.874443e-10 0.9104206
+ [54,] 1.610796e-10 2.524867e-10 1.690124e-10 0.8981473
+ [55,] 5.387957e-09 2.808991e-09 2.200621e-09 0.8651531
+ [56,] 1.271427e-11 8.693490e-12 5.775913e-11 0.8764908
+ [57,] 4.627410e-12 3.156142e-12 4.374368e-11 0.9607190
+ [58,] 1.458074e-10 7.364420e-11 9.535528e-11 0.8887584
+ [ reached getOption("max.print") -- omitted 142 rows ]
+[1] "beta_med:"
+          [,1]      [,2]       [,3]      [,4]      [,5]      [,6]       [,7]      [,8]
+[1,] 0.2770234 3.8667123 -5.9849243 0.3250741 0.3250742 3.8667124 -5.9787711 0.2770234
+[2,] 0.4090327 1.0357857  0.3170906 0.4478703 0.4478703 1.0357857  0.3406924 0.4090327
+[3,] 0.4729921 0.9344329  0.4467250 0.4564620 0.4564620 0.9344329  0.3714127 0.4729921
+[4,] 0.4799293 0.9197782  0.4563530 0.4444623 0.4444625 0.9197782  0.4258819 0.4799293
+[5,] 0.4789029 0.9590578  0.4823031 0.4824810 0.4824809 0.9590621  0.4767371 0.4789030
+[6,] 0.4704107 0.9715017  0.4579983 0.4810026 0.4810027 0.9719333  0.4684373 0.4731685
+[1] "beta_iqr:"
+           [,1]       [,2]      [,3]       [,4]       [,5]       [,6]      [,7]       [,8]
+[1,] 2.87227289 5.49950458 5.4823616 2.87236585 2.87236596 5.49950450 5.4823616 2.87227326
+[2,] 0.37026026 2.70049700 5.5076797 0.35949710 0.35949720 2.70049685 5.5301641 0.37026022
+[3,] 0.21519034 0.30809125 0.4752760 0.25771497 0.25771486 0.30809139 0.4549068 0.21519029
+[4,] 0.17482996 0.20643192 0.3378439 0.17251141 0.17251145 0.20643197 0.4045079 0.17482998
+[5,] 0.11711052 0.12570751 0.2281086 0.12374722 0.12374774 0.12570757 0.2269064 0.11711197
+[6,] 0.08570544 0.07797268 0.1514139 0.06420125 0.06420247 0.07819607 0.1526937 0.08697272
+[1] "beta_mean:"
+           [,1]      [,2]       [,3]        [,4]        [,5]      [,6]       [,7]       [,8]
+[1,] -2.4382122 6.3602366 -5.0300463 -2.39627853 -2.39627865 6.3602366 -4.9881128 -2.4382120
+[2,] -0.1149381 3.6472467 -4.0618709 -0.03982552 -0.03982565 3.6472468 -3.9867584 -0.1149381
+[3,]  0.4165443 1.4350362 -0.4853027  0.43161276  0.43161272 1.4350362 -0.4702340  0.4165442
+[4,]  0.4763916 0.9905051  0.3899624  0.45955474  0.45955478 0.9905051  0.3731255  0.4763916
+[5,]  0.4931445 0.9710184  0.4765755  0.48419756  0.48437266 0.9713590  0.4675445  0.4922545
+[6,]  0.4789445 0.9780974  0.4470546  0.48510030  0.48515378 0.9791514  0.4535758  0.4814137
+[1] "beta_sd:"
+           [,1]       [,2]       [,3]       [,4]       [,5]       [,6]       [,7]       [,8]
+[1,] 5.75917575 7.14401637  5.8560635 5.78937281 5.78937283 7.14401631  5.9399197 5.75917584
+[2,] 1.65950855 7.96342077 14.7675663 1.69432122 1.69432156 7.96342070 14.7664028 1.65950854
+[3,] 0.49380277 1.31902497  2.4840060 0.49197301 0.49197308 1.31902505  2.5036933 0.49380268
+[4,] 0.19263580 0.38887765  0.7288554 0.18111542 0.18111542 0.38887765  0.7457065 0.19263579
+[5,] 0.11765096 0.12617863  0.2465140 0.12020948 0.12016177 0.12696649  0.2420945 0.11960073
+[6,] 0.07531066 0.08560321  0.1610962 0.07055749 0.07042531 0.08663848  0.1461653 0.07597394
+[1] "Gamma_med:"
+         [,1]     [,2]     [,3]     [,4]
+[1,] 1.500080 1.500321 1.500038 3.994619
+[2,] 1.999988 2.000005 1.400144 2.999655
+[3,] 1.777784 2.571426 1.777783 2.571427
+[4,] 1.941182 2.571431 2.124995 2.571428
+[5,] 2.124999 2.787871 2.125005 2.787879
+[6,] 2.125000 2.787878 2.124999 2.787881
+[1] "estimated joint probabilities"
+           [,1]       [,2]       [,3]
+[1,] 0.03400007 0.29399965 0.08600014
+[2,] 0.30200161 0.05799994 0.06999922
+[3,] 0.08199916 0.07400021 0.00000000
+[1] "observed joint probabilities"
+      1     2  <NA>
+1 0.034 0.294 0.086
+2 0.302 0.058 0.070
+  0.082 0.074 0.000
+b in B: 566.16 sec elapsed
+b in B: 154.59 sec elapsed
+b in B: 190.82 sec elapsed
+b in B: 292.67 sec elapsed
+b in B: 1025.54 sec elapsed
+b in B: 3756.51 sec elapsed
+n in N: 5988.38 sec elapsed
+Warning messages:
+1: Removed 2 rows containing missing values (geom_hline). 
+2: Removed 2 rows containing missing values (geom_hline). 
+3: Removed 2 rows containing missing values (geom_hline). 
+4: Removed 2 rows containing missing values (geom_hline). 
