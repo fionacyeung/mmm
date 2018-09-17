@@ -97,3 +97,48 @@ if (U_slots==1 & V_slots == 1) {
 #mu[mu[,2]>0,]
 1*mu
 }
+
+
+check_stability = function(U,V, U_slots, V_slots, mu){
+  
+  unstable_pairs = 0
+  
+  nw <- nrow(U)
+  nm <- ncol(U)
+  
+  chosen_by_proposers = apply(mu, 1, function(x) which(x==1))
+  chosen_by_reviewers = apply(mu, 2, function(x) which(x==1))
+  
+  # check each proposer
+  for (ii in 1:nw) {
+    pu = U[ii, chosen_by_proposers[[ii]]]
+    if (length(pu) == 0) {
+      pu=0
+    } 
+    # print(paste0("proposer ", ii, ": ", pu))
+    
+    preferred_but_not_paired_p = which(U[ii,] > min(pu))
+    preferred_but_not_paired_p = preferred_but_not_paired_p[!(preferred_but_not_paired_p %in% chosen_by_proposers[[ii]])]
+    
+    # print(paste0("proposer ", ii, "wants ", preferred_but_not_paired_p))
+    
+    for (jj in preferred_but_not_paired_p) {
+      ru_paired = V[chosen_by_reviewers[[jj]],jj]
+      
+      # print(paste0("V[", ii, ",",jj, "] = ", V[ii,jj]))
+      # print(paste0("reviewer ", jj, " paired with: ", chosen_by_reviewers[[jj]],
+      #              "  with utility ", ru_paired))
+      
+      if (any(V[ii,jj] > ru_paired)) {
+        print(paste("proposer", ii, "should pair with reviewer", jj))
+        print(paste0("U[", ii, ",",jj, "] = ", U[ii,jj]))
+        print(paste0("V[", ii, ",",jj, "] = ", V[ii,jj]))
+        print(paste0("V[", ii, ",",jj, "] > ", "ru_paired=", ru_paired))
+        unstable_pairs = unstable_pairs + 1
+      }
+    }
+  }
+  if (unstable_pairs == 0) print("Matching is stable") else print("Matching is not stable")
+  
+  return(unstable_pairs)
+}
